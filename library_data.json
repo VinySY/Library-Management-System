@@ -1,0 +1,28 @@
+{
+    "books": {
+        "C Programming": 9,
+        "Operating Systems": 8,
+        "Database Management Systems": 7,
+        "Computer Networks": 2,
+        "Data Structures & Algorithms": 12,
+        "Discrete Mathematics": 6,
+        "Software Engineering": 9,
+        "Digital Logic Design": 4,
+        "Theory of Computation": 3,
+        "Artificial Intelligence": 5
+    },
+    "records": {
+        "Govind": {
+            "book": "C Programming",
+            "issue_date": "2026-04-27",
+            "due_date": "2026-04-29",
+            "days_allowed": 2
+        },
+        "Gaurav": {
+            "book": "Computer Networks",
+            "issue_date": "2026-04-27",
+            "due_date": "2026-04-28",
+            "days_allowed": 1
+        }
+    }
+}
